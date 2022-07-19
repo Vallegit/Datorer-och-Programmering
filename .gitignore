@@ -1,0 +1,12 @@
+#Ignore without file extensions
+*
+!*.*
+!*/
+
+#Ignore executables
+*.out
+*.class
+*.exe
+*.o
+*.png
+.vscode/
